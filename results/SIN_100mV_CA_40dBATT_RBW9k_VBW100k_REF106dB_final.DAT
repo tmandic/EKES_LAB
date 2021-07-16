@@ -8,7 +8,7 @@ Span;2000000.000000;Hz
 x-Axis;LIN;
 Start;9000000.000000;Hz
 Stop;11000000.000000;Hz
-Ref Level;106.000000;dBµV
+Ref Level;106.000000;dBÂµV
 Level Offset;0.000000;dB
 Ref Position;100.000000;%
 y-Axis;LOG;
@@ -23,7 +23,7 @@ Detector;CISPRAV;
 Sweep Count;0;
 Trace 2:;;
 x-Unit;Hz;
-y-Unit;dBµV;
+y-Unit;dBÂµV;
 Preamplifier;OFF;
 Transducer;OFF;
 Values;8001;
